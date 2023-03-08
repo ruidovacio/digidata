@@ -1,0 +1,44 @@
+.digimon-contenedor {
+    display: block;
+    width: 20rem;
+    margin: 20px;
+    border: 0.1rem;
+    border-style: solid;
+    border-color: gray;
+    box-shadow: 0.1rem 0.1rem 1rem #1c1722;
+    background-color: white;
+    color:#51475f;
+}
+
+.id {
+    margin-top: 0;
+    margin-bottom: 0;
+    background-color: gainsboro;
+    background-size: contain;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.nombre{
+    background-color:lavender;
+    margin-top: 0;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    font-family:'Courier New', Courier, monospace ;
+    font-size: 1.4em;
+    color: #1c1722;
+}
+
+.imagen {
+    width: 50%;
+}
+
+.nivel {
+    background-color: gainsboro;
+    background-size: contain;
+    margin-bottom: 0;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
