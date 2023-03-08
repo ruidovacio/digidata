@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/digidata/static/css/main.2e294bff.css",
+    "main.js": "/digidata/static/js/main.617ad084.js",
+    "static/media/logo.svg": "/digidata/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/digidata/index.html",
+    "main.2e294bff.css.map": "/digidata/static/css/main.2e294bff.css.map",
+    "main.617ad084.js.map": "/digidata/static/js/main.617ad084.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e294bff.css",
+    "static/js/main.617ad084.js"
+  ]
+}
